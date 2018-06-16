@@ -35,7 +35,7 @@ Authentication - not have AuthenMode / Credentials properties but have credent. 
 Cross-domain need to add ClientAccessPolicy.xml in sp web app root
 ex.
 <pre>
-<?xml version="1" encode..>
+..xml version="1" encode..>
 <access-policy>
 <cross-domain-access>
 <policy>
