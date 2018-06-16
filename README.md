@@ -46,3 +46,6 @@ ex.
 <b>&lt;resource include-subpaths="true" path="/"/&gt;</b>
 &lt;/grant-to&gt;
 </pre>
+
+<h4>Linq</h4>
+https://www.codeproject.com/Articles/156014/How-to-use-LINQ-to-Sharepoint
