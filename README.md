@@ -1,7 +1,7 @@
 # SharePoint Development with the CSOM and REST API
 
-<h1>Three Implementations</h1>
-
+<h4>Three Implementations</h4>
+<pre>
 <h5>.NET Managed : Files Locate in <System Root>\ISAPI</h5>
 <li>Microsft.Sharepoint.Client</li>
 <li>Microsft.Sharepoint.Client.Runtime</li>
@@ -14,7 +14,7 @@
 <li>SP.js</li>
 <li>SP.Core.js</li>
 <li>SP.Runtime.js</li>
-
+</pre>
 
 
 
