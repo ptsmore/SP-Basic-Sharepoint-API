@@ -11,7 +11,7 @@ SharePoint Development with the CSOM and REST API
 <li>Microsft.Sharepoint.Client.Silverlight</li>
 <li>Microsft.Sharepoint.Client.Silverlight.Runtime</li>
   
-<ul>ECMA Script (Javascript) : Files Locate in <System Root>\LAYOUTS</ul>
+<h5>ECMA Script (Javascript) : Files Locate in <System Root>\LAYOUTS</h5>
 <li>SP.js</li>
 <li>SP.Core.js</li>
 <li>SP.Runtime.js</li>
