@@ -30,7 +30,7 @@ can override default
 </pre>
 
 <h4>.Silverlight Authentication</h4>
-<pre>
+
 Authentication - not have AuthenMode / Credentials properties but have credent. of hosting web app
 Cross-domain need to add ClientAccessPolicy.xml in sp web app root
 ex.
@@ -45,4 +45,4 @@ ex.
 <grant-to>
 <b><resource include-subpaths="true" path="/"/></b>
 </grant-to>
-</pre></pre>
+</pre>
