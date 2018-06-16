@@ -1,13 +1,12 @@
-# SP-Basic-Sharepoint-API
-SharePoint Development with the CSOM and REST API
+# SharePoint Development with the CSOM and REST API
 
-<h6>Three Implementations</h6>
+<h1>Three Implementations</h1>
 
-<ul>.NET Managed : Files Locate in <System Root>\ISAPI</ul>
+<h5>.NET Managed : Files Locate in <System Root>\ISAPI</h5>
 <li>Microsft.Sharepoint.Client</li>
 <li>Microsft.Sharepoint.Client.Runtime</li>
 
-<ul>Silverlight : Files Locate in <System Root>\LAYOUTS\ClientBin</ul>
+<h5>Silverlight : Files Locate in <System Root>\LAYOUTS\ClientBin</h5>
 <li>Microsft.Sharepoint.Client.Silverlight</li>
 <li>Microsft.Sharepoint.Client.Silverlight.Runtime</li>
   
